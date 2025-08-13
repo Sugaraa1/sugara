@@ -17,5 +17,5 @@
 ### 1. Рефозиторыг татах
 
 ```bash
-git clone https://github.com/Sugaraa1/sugara.git
-cd sugara 
+git clone https://github.com/Sugaraa1/Todo_demo.git
+cd Todo_demo
